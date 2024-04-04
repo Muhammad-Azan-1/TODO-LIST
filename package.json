@@ -1,6 +1,6 @@
 {
-  "name": "todo-list-azan",
-  "version": "2.0.1",
+  "name": "azan-list-todo",
+  "version": "2.0.2",
   "description": "A basic todo list",
   "main": "index.js",
   "type" : "module",
